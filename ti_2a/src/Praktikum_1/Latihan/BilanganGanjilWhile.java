@@ -1,4 +1,4 @@
-package Modul_1.Latihan;
+package Praktikum_1.Latihan;
 
 public class BilanganGanjilWhile {
 
