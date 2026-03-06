@@ -12,6 +12,6 @@ public class Variable {
         System.out.println("umur:" +umur);
         System.out.println("tinggi:" +tinggi);
         System.out.println("mahasiswa:" + isMahasiswa);
-        System.out.println("jenis kelamin: + jeniskelamin");
+        System.out.println("jenis kelamin: " + jeniskelamin);
     }
 }
